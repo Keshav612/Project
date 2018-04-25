@@ -1,4 +1,5 @@
 /*Write a program which accepts a number and a divisor to divide it. If the divisor is zero the program terminates abruptly. Modify the program by adding exception handling in it and prevent abnormal termination.*/
+//using try and catch
 #include <iostream>
 using namespace std;
 
